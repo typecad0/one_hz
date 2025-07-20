@@ -1,0 +1,25 @@
+{
+  "components": {
+    "component:Capacitor_SMD:C_0603_1608Metric:C1:100nF::front": "8d93eb90-aa1c-46f3-b52a-1fcc3d0e4318",
+    "component:Capacitor_SMD:C_0603_1608Metric:C2:100nF::front": "ffa7aa3b-f0b9-4c67-8630-f3422ba18d72",
+    "component:Capacitor_SMD:C_0603_1608Metric:C3:100nF::front": "e8b3a8de-1a62-4f64-adfa-20c640b5e75d",
+    "component:Capacitor_SMD:C_0603_1608Metric:C4:100nF::front": "339890bb-4f6d-48d1-b26a-633f30f3c311",
+    "component:Capacitor_SMD:C_0603_1608Metric:C6:10µF::front": "f69825d8-d101-4e6a-a23c-0bcdd4d920e6",
+    "component:Resistor_SMD:R_0603_1608Metric:R1:10kΩ::front": "e9c1ba27-ba56-4fa3-98bc-caade93b1370",
+    "component:Package_DIP:DIP-16_W7.62mm:U2:74HC4060N::front": "c7d8b155-e549-4dad-94e6-01615ad12393",
+    "component:Package_DIP:DIP-16_W7.62mm:U3:74HC4040N::front": "8a8e6665-e563-4532-9a27-9664c12b730e",
+    "component:Package_DIP:DIP-20_W7.62mm:U4:74HC244N::front": "063cded5-8318-422f-be3a-034eabec9205",
+    "component:Capacitor_SMD:C_0603_1608Metric:C5:10µF::front": "f29aaacd-b48f-4e12-91bd-2e164ec71dc1",
+    "component:TestPoint:TestPoint_Pad_D1.0mm:TP1:::front": "8f7b17cc-4c42-463b-9033-db0804ec5363",
+    "component:TestPoint:TestPoint_Pad_D1.0mm:TP2:::front": "ffb961a2-7f96-4e39-afff-af9832e6de86",
+    "component:TestPoint:TestPoint_Pad_D1.0mm:TP3:::front": "66c7726b-e461-4d94-9067-eb2a07cc313a",
+    "component:TestPoint:TestPoint_Pad_D1.0mm:TP4:::front": "2b57aa32-1883-47e2-9857-0570d68358b5",
+    "component:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical:J1:::front": "740e6f3a-28d4-4b71-a977-875fd6b71fbd",
+    "component:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical:J2:::front": "747c9ecc-187d-4311-996e-2e2d25613e5b",
+    "component:lib:QFN_7050_4pins:U1:SIT8008BI-82-30E-4.194304:SIT8008BI-82-30E-4.194304:front": "984e8234-ef6e-4b89-9e1c-dbe9719323eb"
+  },
+  "meta": {
+    "lastUpdated": "2025-07-12T04:47:02.873Z",
+    "componentCount": 18
+  }
+}

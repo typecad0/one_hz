@@ -1,0 +1,22 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "🤖 Build": "npx tsx ./src/one_hz",
+    "Add Component 🧩": "npx @typecad/add-component ./src",
+    "✳️ Open Board": "npx open-cli ./build/one_hz.kicad_pcb",
+    "docgen 📒": "typecad-docgen ./docs/one_hz.md ./build/one_hz.kicad_pcb"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typecad/passives": "^0.1.8",
+    "@typecad/schematic": "^1.0.0",
+    "@typecad/typecad": "^0.2.6",
+    "@typecad/typecad-docgen": "^1.0.0",
+    "tsx": "^4.20.3"
+  }
+}
